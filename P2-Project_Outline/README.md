@@ -21,9 +21,9 @@ adopter.  I am hoping this app will help weed out any bad adopters and only plac
 
 ### Features
 Some of the features I hope to include, but not limited to:
-     - Login page for the rescue
-	 - Once the rescue logs in, to be able to upload/modify/delete photos of animals as well as publish a bio.
-	 - The ability for the adopter to upload a photo of themselves.
+     - Login page for the rescue so they will be able to upload/modify/delete animals from the site.
+	 - As an adopter, I need to be able to upload a photo so that it can be attached to the application.
+	 - As an adopter, 
 	 - The adopters application to display questions relevant to them.  If they answer one way, additional questions may pop up.
 	 - The adopters will be able to search for a particular animal based on what they are looking for (i.e. age, sex, breed, etc)
 
