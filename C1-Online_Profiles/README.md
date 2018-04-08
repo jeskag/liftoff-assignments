@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[Jessica Gutshall GitHub Link](https://github.com/jeskag)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Jessica Gutshall LinkedIn](https://www.linkedin.com/in/jessica-gutshall-8aa8757/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+Uploaded under C1-Online_Profiles folder.
