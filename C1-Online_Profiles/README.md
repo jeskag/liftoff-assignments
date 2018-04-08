@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Jessica Gutshall LinkedIn](https://www.linkedin.com/in/jessica-gutshall-8aa8757/)
 
 ### Resume
-Uploaded under C1-Online_Profiles folder.
+[Jessica Gutshall Resume](https://github.com/jeskag/liftoff-assignments/blob/master/C1-Online_Profiles/JMGutshall%20Resume%2004082018.pdf)
